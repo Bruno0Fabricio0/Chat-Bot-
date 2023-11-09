@@ -3,4 +3,4 @@ import time
 
 driver = webdriver.Chrome()
 driver.get('https://web.whatsapp.com/') 
-time.sleep()
+time.sleep(120)
